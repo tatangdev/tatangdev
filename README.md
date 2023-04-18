@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Rey</h1>
+  <h1 align="center">Hi there 👋</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+Software+Engineer;%40RushOwl+Singapore" alt="Typing SVG" /></a>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=tatangdev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="u77w41" /> </p>
 </div>
